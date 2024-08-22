@@ -1,7 +1,16 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": ".",
+			"name": "Media Module"
+		},
+		{
+			"path": "../generator",
+			"name": "FGTA4 Generator"
+		},
+		{
+			"path": "../framework",
+			"name": "Framework"
 		}
 	],
 	"settings": {}
